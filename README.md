@@ -19,15 +19,15 @@ business.
 The following services will be offered:
 
 1. [Contractor account management](#Contractor_Account_Management)
-  1. Onboarding
-  1. Contractor pay
-  1. Contractor scheduling 
+  * Onboarding
+  * Contractor pay
+  * Contractor scheduling 
 2. Job management
-  2. Incoming jobs
-  2. Completed jobs
+  * Incoming jobs
+  * Completed jobs
 3. Client account management
-  3. Onboarding
-  3. Accounting
+  * Onboarding
+  * Accounting
 
 #### Contractor_Account_Management
 - Onboarding
