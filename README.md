@@ -18,7 +18,7 @@ business.
 ### Services
 The following services will be offered:
 
-1. Contractor account management ['Contractor Services'](#Contractor_Services)
+1. Contractor account management [Contractor Services](#Contractor_Services)
   1. Onboarding
   1. Contractor pay
   1. Contractor scheduling 
