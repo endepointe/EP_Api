@@ -3,7 +3,7 @@
 ## TOC
 1. [About](#About)
 2. Projects
-    2. [Service Management](https://github.com/endepointe/EP_ServiceManagement)
+    1. [Service Management](https://github.com/endepointe/EP_ServiceManagement)
 
 ### About
 Several applications will be displayed within endepointe and each of
